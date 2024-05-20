@@ -4,7 +4,7 @@ fn main() {
     println!("Hello, world!");
 
     //My favourite color
-    let _my_favourite_color = "red";
+    let my_favourite_color = "red";
    
 
 }
